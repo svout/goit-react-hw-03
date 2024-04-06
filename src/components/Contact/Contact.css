@@ -1,0 +1,7 @@
+.contact {
+    border: 3px solid #fff;
+    border-radius: 10px;
+    box-shadow: #1a1a1a;
+    padding: 10px;
+    justify-content: flex-start;
+}
